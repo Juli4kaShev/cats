@@ -1,0 +1,27 @@
+table {
+  color: purple;
+  border-radius: 10px;
+  width: 100%
+}
+
+ #one {
+   color: purple;
+   background-color: plum
+ }
+
+ h1{
+   font-size: 60px
+ }
+
+a {
+  font-size: 30px
+}
+
+#float {
+  float: right;
+  border: 4px solid purple;
+}
+
+#font-size-img {
+  height: 50px
+}
